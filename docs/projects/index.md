@@ -32,7 +32,7 @@ Choose a project below to explore the technical documentation, block diagrams, a
 
     ---
 
-    **[Tetris FPGA Implementation]()**
+    **[Tetris FPGA Implementation](tetris/)**
 
     A real-time hardware game built on the DE10-Lite with a custom VGA controller, verified via Signal Tap logic analysis.
 
@@ -43,7 +43,7 @@ Choose a project below to explore the technical documentation, block diagrams, a
 
     ---
 
-    **[Autonomous Wind Turbine Fault Classification]()**
+    **[Autonomous Wind Turbine Fault Classification](turbine-fault-detection/)**
 
     Developing a diagnostic pipeline using supervised learning to classify structural and mechanical faults from high-frequency sensor data, optimizing for real-time detection accuracy.
 
@@ -53,7 +53,7 @@ Choose a project below to explore the technical documentation, block diagrams, a
 
     ---
 
-    **[Autonomous Aerial Fire Detection System]()**
+    **[Autonomous Aerial Fire Detection System](fire-detection/)**
 
     Integrated deep learning models with UAV platforms to perform real-time wildfire identification and localization, utilizing RGB data for high-confidence detection.
 
@@ -64,7 +64,7 @@ Choose a project below to explore the technical documentation, block diagrams, a
 
     ---
 
-    **[Embedded IR-Remote Driver]()**
+    **[Embedded IR-Remote Driver](embedded-IR-remote/)**
 
     A hardware/software co-design for IR demodulation on a Zybo Z7 FPGA using a MicroBlaze processor.
 
@@ -76,7 +76,7 @@ Choose a project below to explore the technical documentation, block diagrams, a
 
     ---
 
-    **[Vision-Based Autonomous Drone Control]()**
+    **[Vision-Based Autonomous Drone Control](gesture-drone/)**
 
     An end-to-end autonomous UAV system utilizing real-time computer vision to map human hand gestures to flight maneuvers and command sequences.
 
