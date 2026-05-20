@@ -342,6 +342,7 @@ line_spans = "__span"
 pygments_lang_class = true
 [project.markdown_extensions.pymdownx.inlinehilite]
 [project.markdown_extensions.pymdownx.keys]
+[project.markdown_extensions.pymdownx.snippets]
 [project.markdown_extensions.pymdownx.magiclink]
 [project.markdown_extensions.pymdownx.mark]
 [project.markdown_extensions.pymdownx.smartsymbols]
@@ -355,6 +356,7 @@ combine_header_slug = true
 [project.markdown_extensions.pymdownx.tasklist]
 custom_checkbox = true
 [project.markdown_extensions.pymdownx.tilde]
+[project.markdown_extensions.pymdownx.blocks.caption]
 
 
 
