@@ -14,7 +14,7 @@ My research bridges the gap between theoretical verification and applied enginee
     * **My Contribution:** Formally modeled the Python-based framework in Dafny to generate computer-assisted proofs, Contract-aware fuzzing for analysis of Dafny proofs applied on Python concrete execution
     * **Tech Stack:** `Dafny` `Python` `Docker` `Atheris`
 
-    [View Draft (PDF)](#){ .md-button .md-button--small } [Artifact](#){ .md-button .md-button--small }
+    [View Draft (PDF) (coming soon)](#){ .md-button .md-button--small } [Artifact](https://zenodo.org/records/20095617){ .md-button .md-button--small }
 
 
 !!! abstract "2024 | Identification and Localization of Wind Turbine Blade Faults Using Deep Learning"
