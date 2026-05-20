@@ -1,0 +1,10 @@
+/* Force consistent banner headers for card images */
+.cards > ul > li img {
+  width: 100%;
+  height: 140px;           /* Adjust this value to make the header slimmer or taller */
+  object-fit: cover;       /* The magic property: crops instead of squishing */
+  object-position: center; /* Keeps the middle of your image in view */
+  margin: 0;               /* Removes any default markdown spacing */
+  border-bottom: 1px solid var(--md-default-fg-color--minimized); /* Adds a subtle divider line */
+}
+
