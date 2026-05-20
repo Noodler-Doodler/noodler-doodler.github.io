@@ -8,7 +8,7 @@ I am a Computer Engineering M.S. student focused on building high-reliability sy
 Currently completing my thesis on the formal grounding of the neural network verification framework [VeRAPAk](https://verapak.net), I am actively seeking early to mid-level engineering roles in the Utah and Denver areas.
 
 [View My Digital Resume](resume.md){ .md-button .md-button--primary }
-[Download PDF Resume](/assets/pdf/mason_davis_resume.pdf){ .md-button }
+[Download PDF Resume](/assets/pdf/resume_davis_5_26.pdf){ .md-button }
 
 ---
 
@@ -22,7 +22,7 @@ Currently completing my thesis on the formal grounding of the neural network ver
 
     Designing complex digital architectures from the ground up. Experienced in VHDL/Verilog RTL design, pipeline optimization, and synthesizing digital logic onto physical development boards.
 
-    [Explore Hardware Projects](projects/dlx-processor.md)
+    [Explore Hardware Projects](projects/dlx-processor)
 
 -   :material-shield-check: **Formal Verification**
 
@@ -30,7 +30,7 @@ Currently completing my thesis on the formal grounding of the neural network ver
 
     Applying strict mathematical rigor to software and neural networks. Specializing in Dafny modeling, computer-assisted proofs, and contract-constrained fuzzing to guarantee system correctness.
 
-    [Explore Verification Work](projects/verapak-fuzzing.md)
+    [Explore Verification Work](projects/verapak-proofs)
 
 -   :material-robot-industrial: **Embedded Systems & Co-Design**
 
@@ -38,7 +38,7 @@ Currently completing my thesis on the formal grounding of the neural network ver
 
     Developing robust device drivers, integrating custom IP cores, and optimizing hardware-software co-design pipelines with embedded Linux environments for real-time edge execution.
 
-    [View Embedded Projects](projects/led-digital-canvas.md)
+    [View Embedded Projects](projects/)
 
 -   :material-school: **Research & Publications**
 
@@ -49,6 +49,22 @@ Currently completing my thesis on the formal grounding of the neural network ver
     [Read My Publications](research/index.md)
 
 </div>
+
+---
+
+## What I'm currently working on
+
+*A peek at the projects currently on my workbench.*
+
+!!! abstract "LED Digital Canvas"
+    Engineering an ESP32 system to drive a 32x32 RGB matrix to display digital art with a custom web interface for management. 
+    
+    `ESP32` `Fusion 360`
+
+!!! abstract "Thesis: Formal Grounding of VeRAPAk"
+    Drafting my thesis discussing the formal modeling and verification effort of VeRAPAk along with the empirical validation on real-world case studies. 
+    
+    `Dafny` `Python` `Neural Networks` `Formal Verification`
 
 ---
 

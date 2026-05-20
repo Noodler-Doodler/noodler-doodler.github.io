@@ -2,9 +2,9 @@
 
 **Computer Engineer | *FPGA Design • Embedded Systems • Formal Verification***
 
-[Download PDF Version](assets/pdf/mason_davis_resume.pdf){ .md-button .md-button--primary }
+[Download PDF Version](assets/pdf/resume_davis_5_26.pdf){ .md-button .md-button--primary }
 
-:material-map-marker: Utah &nbsp;|&nbsp; :fontawesome-brands-linkedin: [LinkedIn Profile](https://linkedin.com/in/masondavis9) &nbsp;|&nbsp; :fontawesome-brands-github: [GitHub](https://github.com/masondavis9) &nbsp;
+:material-map-marker: Utah &nbsp;|&nbsp; :fontawesome-brands-linkedin: [LinkedIn Profile](https://linkedin.com/in/masondavis9) &nbsp;|&nbsp; :fontawesome-brands-github: [GitHub](https://github.com/noodler-doodler) &nbsp;
 
 ---
 
