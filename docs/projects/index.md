@@ -10,7 +10,7 @@ Choose a project below to explore the technical documentation, block diagrams, a
 
     ---
 
-    **[5-Stage DLX Processor](dlx-processor/index.md)**
+    **[5-Stage DLX Processor](dlx-processor/)**
 
     A 32-bit pipelined custom architecture featuring word-addressable instruction memory, a Hazard Detection Unit, and UART peripheral integration.
 
@@ -20,7 +20,7 @@ Choose a project below to explore the technical documentation, block diagrams, a
 
     ---
 
-    **[Neural Network Verifier - Proofs in Dafny]()**
+    **[Neural Network Verifier - Proofs in Dafny](verapak-proofs/)**
 
     Validating Python execution against Dafny models via a custom contract-constrained Atheris fuzzer to guarantee robustness.
 
