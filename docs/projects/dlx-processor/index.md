@@ -206,11 +206,11 @@ Running a heavy Least Common Multiple (LCM) algorithm on the physical board succ
 
 ---
 
-## Source Code & Final Outcomes
+## Final Outcomes
 
 The final architecture represents a complete, highly optimized softcore processor capable of compiling and executing the full DLX instruction set. 
 
 * **Target Hardware:** DE10-Lite FPGA (MAX 10)
 * **Maximum Clock Frequency:** 70 MHz (via custom PLL)
 
-[View GitHub Repository](https://github.com/masondavis9){ .md-button .md-button--primary }
+<!-- [View GitHub Repository](){ .md-button .md-button--primary } -->
